@@ -32,7 +32,7 @@ setup(
     scripts=[],
     install_requires=[
         'pyrsistent==0.11.13',
-        'pytz==2016.4',
+        'pytz>=2016.4',
         'tzlocal==1.2.2',
         'humanize==0.5.1',
         'six==1.10.0',
